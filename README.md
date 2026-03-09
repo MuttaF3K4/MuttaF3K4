@@ -4,7 +4,8 @@
 ## Welcome to my Github! :wave: :building_construction:
 ______________________________________________________________________________________
 
-Hello I am Brian, also known as Beezo. I am A Devops Engineer that always has the end user's experience in mind!
+Hello I am Brian, also known as Beezo! I enjoy building creative projects and that integrate different worlds together.
+
 
 
 
