@@ -1,7 +1,9 @@
 
   
 <p align="center">
+  <p style="font-size: 20px;">
   ## Welcome to my Github! :wave: :building_construction:
+  </p> 
 </p>
 ______________________________________________________________________________________
 
