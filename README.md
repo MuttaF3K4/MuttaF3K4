@@ -1,7 +1,11 @@
 
 <h1 align="center" class="heading-element" dir="auto">Welcome to my Github! :wave: :building_construction:</h1>
 <h3 align="center" class="heading-element" dir="auto">Hello I am Brian, also known as Beezo! I enjoy building creative projects and that integrate different worlds together</h3>
-<h3 align="left">Contact Me 📬</h4>
+<h3 align="left">
+  Contact Me 📬
+  Email: Brian.Dono12@Gmail.com  
+  LinkedIn: https://www.linkedin.com/in/donobrian/n
+</h4>
 <h3 align="left">Email: Brian.Dono12@Gmail.com</h4>
 <h3 align="left">LinkedIn: https://www.linkedin.com/in/donobrian/n</h4>
 
