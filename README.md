@@ -1,10 +1,8 @@
 
-<p style="font-size: 60px;">
-  <p align="center">
-  ## Welcome to my Github! :wave: :building_construction:
-  </p> 
-</p>
-______________________________________________________________________________________
+<p align="center">
+  **Welcome to my Github! :wave: :building_construction:**
+ </p> 
+______________________________________________________________________________________________________________________
 
 Hello I am Brian, also known as Beezo! I enjoy building creative projects and that integrate different worlds together.
 
