@@ -1,6 +1,6 @@
 
 <h1 align="center" class="heading-element" dir="auto">Welcome to my Github! :wave: :building_construction:</h1>
-
+<h3 align="right">💬 Contact Me</h4>
 <h3 align="center" class="heading-element" dir="auto">Hello I am Brian, also known as Beezo! I enjoy building creative projects and that integrate different worlds together</h3>
 
 
