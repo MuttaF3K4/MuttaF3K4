@@ -1,6 +1,6 @@
 
 <div align="center">
-  **Welcome to my Github!** :wave: :building_construction:
+  __Welcome to my Github!__ :wave: :building_construction:
 </div>
 
 
