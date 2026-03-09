@@ -1,8 +1,5 @@
 
-<div align="center">
-  __Welcome to my Github!__ :wave: :building_construction:
-</div>
-
+<h1 align="center" class="heading-element" dir="auto">Welcome to my Github! :wave: :building_construction:</h1>
 
 ______________________________________________________________________________________________________________________
 
