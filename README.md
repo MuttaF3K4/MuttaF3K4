@@ -8,7 +8,8 @@
 
 <br>
 
-<table width=100%>
+
+<!-- <table width=100%>
 
   <tr>
      Skills:
@@ -19,7 +20,7 @@
  
 
 
-</table>
+</table> -->
 
 <!--
 **MuttaF3K4/MuttaF3K4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
