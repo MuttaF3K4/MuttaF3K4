@@ -1,16 +1,18 @@
 
 <h1 align="center" class="heading-element" dir="auto">Welcome to my Github! :wave: :building_construction:</h1>
 <h3 align="center" class="heading-element" dir="auto">Hello I am Brian, also known as Beezo! I enjoy building creative projects that integrate different worlds together</h3>
-<h3 align="left">Contact me 📬</h3>
+<h3 align="right">Contact me 📬</h3>
 
-[<img align="left" src="https://img.shields.io/badge/Gmail-seashell?&style=for-the-badge&logo=gmail&logoColor=red"/>](Mailto:Brian.dono12@gmail.com)
-[<img align="left" src="https://img.shields.io/badge/Linkedin-aliceblue?&style=for-the-badge&logo=linkedin&logoColor=blue"/>](https://www.linkedin.com/in/donobrian/)
+[<img align="right" src="https://img.shields.io/badge/Gmail-seashell?&style=for-the-badge&logo=gmail&logoColor=red"/>](Mailto:Brian.dono12@gmail.com)
+<br>
+<br>
+[<img align="right" src="https://img.shields.io/badge/Linkedin-aliceblue?&style=for-the-badge&logo=linkedin&logoColor=blue"/>](https://www.linkedin.com/in/donobrian/)
 
 <br>
 
 <table width=100%>
 <tr>
-   <td width=60%>
+   <td width=80%>
     
 ## 📎 Skills
 
