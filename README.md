@@ -20,10 +20,17 @@
 
 ![Typescript](https://img.shields.io/badge/Typescript-dodgerblue?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-orangered?style=flat&logo=html5&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=%23F7DF1E)&nbsp;
 ![C](https://img.shields.io/badge/-white?style=flat&logo=c&logoColor=blue)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql&logoColor=gold)&nbsp;
+GDScript
+
+### Game Engines
+
+Pygame
+Godot
+Unity
+GameMakerStudio
 
 #### ⛩ Backend & API Development
 
@@ -31,16 +38,13 @@
 ![NestJS](https://img.shields.io/badge/NestJS-red?style=flat&logo=nestjs&logoColor=ivory)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-dodgerblue?style=flat&logo=docker&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-lightseagreen?style=flat&logo=fastapi&logoColor=white)&nbsp;
 ![DBeaver](https://img.shields.io/badge/DBeaver-yellowgreen?style=flat&logo=dbeaver&logoColor=white)&nbsp;
 
 #### 🚀 Frontend Development
 
 ![React Native](https://img.shields.io/badge/React-React_Native-deepskyblue?style=flat&logo=react&logoColor=deepskyblue)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular&logoColor=white)&nbsp;
-![Ionic](https://img.shields.io/badge/Ionic-ghostwhite?style=flat&logo=ionic&logoColor=dodgerblue)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-ghostwhite?style=flat&logo=androidstudio&logoColor=dodgerblue)&nbsp;
-![Xcode](https://img.shields.io/badge/Xcode-ghostwhite?style=flat&logo=xcode&logoColor=dodgerblue)&nbsp;
 
 #### 🌈 Graphic Design
 
@@ -48,9 +52,10 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-midnightblue?style=flat&logo=adobephotoshop&logoColor=cornflowerblue)&nbsp;
 ![Premiere](https://img.shields.io/badge/Indesign-darkred?style=flat&logo=adobeindesign&logoColor=cherry)&nbsp;
 ![AfterEffects](https://img.shields.io/badge/After_Effects-indigo?style=flat&logo=adobeaftereffects&logoColor=plum)&nbsp;
-![Affinity](https://img.shields.io/badge/Affinity-232F3E?style=flat&logo=affinity&logoColor=dodgerblue)&nbsp;
 ![Blender](https://img.shields.io/badge/blender-232F3E?style=flat&logo=blender&logoColor=orange)&nbsp;
-![Sketchup](https://img.shields.io/badge/SketchUp-232F3E?style=flat&logo=sketchup&logoColor=red)&nbsp;
+gimp
+Tiled
+Davinchi Resolve
 
 #### 🗓 Management Tools
 
@@ -64,12 +69,13 @@
 #### 🌱 In line to learn
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-orangered?style=flat&logo=pytorch&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-crimson?style=flat&logo=firebase&logoColor=%23F7DF1E)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=lightblue)&nbsp;
 ![Java](https://img.shields.io/badge/♨️Java-orangered?style=flat&logo=java&logoColor=lightblue)&nbsp;
 ![Ruby](https://img.shields.io/badge/Ruby-crimson?style=flat&logo=ruby&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+Kuberneties
+
 </td>
 
  </tr>
