@@ -30,7 +30,7 @@ GDScript
 ![Pygame](https://img.shields.io/badge/Pygame-limegreen)&nbsp;
 ![Godot](https://img.shields.io/badge/Godot-blue?logo=godot&logoColor=logo)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-gray?logo=unity&logoColor=white)&nbsp;
-![GameMakerStudio](https://img.shields.io/badge/Game_Make_Studio-lightgray)&nbsp;
+![GameMakerStudio](https://img.shields.io/badge/Game_Maker_Studio-Gray?color=2B2A2A)&nbsp;
 
 #### ⛩ Backend & API Development
 
