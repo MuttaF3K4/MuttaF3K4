@@ -27,22 +27,21 @@ GDScript
 
 ### Game Engines
 
-Pygame
-Godot
-Unity
-GameMakerStudio
+![Pygame](https://img.shields.io/badge/Pygame-limegreen)&nbsp;
+![Godot](https://img.shields.io/badge/Godot-blue?logo=godot&logoColor=logo)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-gray?logo=unity&logoColor=white)&nbsp;
+![GameMakerStudio](https://img.shields.io/badge/Game_Make_Studio-lightgray)&nbsp;
 
 #### ⛩ Backend & API Development
 
 ![NodeJS](https://img.shields.io/badge/Node.js-%234ea94b?style=flat&logo=node.js&logoColor=ivory)&nbsp;
-![NestJS](https://img.shields.io/badge/NestJS-red?style=flat&logo=nestjs&logoColor=ivory)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-dodgerblue?style=flat&logo=docker&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)&nbsp;
 ![DBeaver](https://img.shields.io/badge/DBeaver-yellowgreen?style=flat&logo=dbeaver&logoColor=white)&nbsp;
 
 #### 🚀 Frontend Development
 
-![React Native](https://img.shields.io/badge/React-React_Native-deepskyblue?style=flat&logo=react&logoColor=deepskyblue)&nbsp;
+![React](https://img.shields.io/badge/React-deepskyblue)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-ghostwhite?style=flat&logo=androidstudio&logoColor=dodgerblue)&nbsp;
 
