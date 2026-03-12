@@ -44,7 +44,7 @@
 ![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-ghostwhite?style=flat&logo=androidstudio&logoColor=dodgerblue)&nbsp;
 
-####  Visual & Graphic Design
+#### 🎴 Visual & Graphic Design
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-midnightblue?style=flat&logo=adobephotoshop&logoColor=cornflowerblue)&nbsp;
 ![Premiere](https://img.shields.io/badge/Premiere-purple?logo=Adobe&color=4B3E8A)&nbsp;
