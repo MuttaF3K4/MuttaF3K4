@@ -14,7 +14,7 @@
 <tr>
    <td width=80%>
     
-## 📎 Skills
+## Technical Skills
 
 #### 💻 Programming Languages
 
@@ -23,9 +23,8 @@
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=%23F7DF1E)&nbsp;
 ![C](https://img.shields.io/badge/-white?style=flat&logo=c&logoColor=blue)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql&logoColor=gold)&nbsp;
-GDScript
 
-### Game Engines
+### Game Development
 
 ![Pygame](https://img.shields.io/badge/Pygame-limegreen)&nbsp;
 ![Godot](https://img.shields.io/badge/Godot-blue?logo=godot&logoColor=logo)&nbsp;
@@ -47,51 +46,29 @@ GDScript
 
 #### 🌈 Graphic Design
 
-![Illustrator](https://img.shields.io/badge/Illustrator-sienna?style=flat&logo=adobeillustrator&logoColor=sandybrown)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-midnightblue?style=flat&logo=adobephotoshop&logoColor=cornflowerblue)&nbsp;
 ![Premiere](https://img.shields.io/badge/Indesign-darkred?style=flat&logo=adobeindesign&logoColor=cherry)&nbsp;
 ![AfterEffects](https://img.shields.io/badge/After_Effects-indigo?style=flat&logo=adobeaftereffects&logoColor=plum)&nbsp;
 ![Blender](https://img.shields.io/badge/blender-232F3E?style=flat&logo=blender&logoColor=orange)&nbsp;
-gimp
+![Gimp](https://img.shields.io/badge/Gimp-gray?style=flat&logo=Gimp&color=white)&nbsp;
 Tiled
-Davinchi Resolve
+![Davinchi Resolve](https://img.shields.io/badge/Davinchi_Resolve-orange?style=plastic)&nbsp;
 
 #### 🗓 Management Tools
 
 ![Jira](https://img.shields.io/badge/Jira-white?style=flat&logo=jira&logoColor=blue)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-white?style=flat&logo=trello&logoColor=blue)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-white?style=flat&logo=notion&logoColor=black)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-white?style=flat&logo=slack&logoColor=DC381F)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black)&nbsp;
-![Bitbucket](https://img.shields.io/badge/Bitbucket-white?style=flat&logo=bitbucket&logoColor=blue)&nbsp;
 
 #### 🌱 In line to learn
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-orangered?style=flat&logo=pytorch&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-crimson?style=flat&logo=firebase&logoColor=%23F7DF1E)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=lightblue)&nbsp;
-![Java](https://img.shields.io/badge/♨️Java-orangered?style=flat&logo=java&logoColor=lightblue)&nbsp;
-![Ruby](https://img.shields.io/badge/Ruby-crimson?style=flat&logo=ruby&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-Kuberneties
+![Java](https://img.shields.io/badge/♨️Java-orangered?style=flat&logo=java&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-crimson?style=flat&logo=kubernetes)&nbsp;
 
 </td>
 
  </tr>
 </table>
-
-
-<!--
-**MuttaF3K4/MuttaF3K4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
